@@ -129,7 +129,7 @@
         ]
       },
       {
-        "title":"ESPNCricInfo",
+        "title":"ESPN CricInfo",
         "provider":"webview",
         "arguments":[
           "https://www.espncricinfo.com/ci/content/story/news.html"
