@@ -64,13 +64,6 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Bet365",
-        "provider":"webview",
-        "arguments":[
-          "https://www.bet365.com/#/IP/B3"
-        ]
-      },
-      {
         "title":"BetWay",
         "provider":"webview",
         "arguments":[
@@ -82,6 +75,13 @@
         "provider":"webview",
         "arguments":[
           "https://www.betfair.com/sport/cricket"
+        ]
+      },
+      {
+        "title":"Bet365",
+        "provider":"webview",
+        "arguments":[
+          "https://www.bet365.com/#/IP/B3"
         ]
       }
     ]
